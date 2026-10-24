@@ -1,0 +1,1 @@
+The project takes a matrix made of characters (natural numbers: number of golds in that cell, '!': thieves are in that cell, 'X': block cells) then with two approaches of Dynamic Programming and Greedy finds a path for the character.
